@@ -39,5 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
-
+<div>
+  [![An image of @sankethsg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sankethsg)](https://holopin.io/@sankethsg)
+</div>
 ###
