@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Sanketh Gopalli<br>A passionate software developer from India<br>🌱 I’m currently learning DevOps with K8s, Ansible</p>
+<p align="center">Hi 👋, I'm Sanketh Gopalli<br>A passionate software developer.<br>🌱 I’m currently learning DevOps with K8s, Ansible</p>
 
 ###
 
