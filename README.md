@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Sanketh Gopalli<br>A passionate software developer.<br>🌱 I’m currently learning DevOps with K8s, Ansible<br> Also doing couple of certifications on fullstack for Uni-Helsinki and Data Analyst on Datac Camp</p>
+<p align="center">Hi 👋, I'm Sanketh Gopalli<br>A passionate software developer.<br>🌱 I’m currently learning DevOps with K8s, Ansible<br> Also doing couple of certifications on fullstack for Uni-Helsinki and Data Analyst on Data Camp</p>
 
 ###
 
